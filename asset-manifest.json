@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/PraticaMod6-RECODE/static/css/main.0e677364.css",
+    "main.js": "/PraticaMod6-RECODE/static/js/main.352f1ae7.js",
+    "static/js/787.27a4b54b.chunk.js": "/PraticaMod6-RECODE/static/js/787.27a4b54b.chunk.js",
+    "static/media/Peru.jpg": "/PraticaMod6-RECODE/static/media/Peru.e964afd494466ddfe174.jpg",
+    "static/media/JAPAN.jpg": "/PraticaMod6-RECODE/static/media/JAPAN.4a918f22bfbdd76b7348.jpg",
+    "static/media/china.jpg": "/PraticaMod6-RECODE/static/media/china.9c7b3fbc391f21bd8fb3.jpg",
+    "static/media/NY.jpg": "/PraticaMod6-RECODE/static/media/NY.1955c55a702c3f9b6188.jpg",
+    "static/media/canada.jpg": "/PraticaMod6-RECODE/static/media/canada.ca8027272c32c217f193.jpg",
+    "static/media/piramide.jpg": "/PraticaMod6-RECODE/static/media/piramide.76a34d74ae6d4255b94a.jpg",
+    "static/media/goldengate.jpg": "/PraticaMod6-RECODE/static/media/goldengate.bc4cdcc10366938c7bff.jpg",
+    "static/media/Italia.jpg": "/PraticaMod6-RECODE/static/media/Italia.e32096508c10216bdc42.jpg",
+    "static/media/EifellParis.jpg": "/PraticaMod6-RECODE/static/media/EifellParis.53f4c3c8888a62b6d8d2.jpg",
+    "static/media/codetravelback.jpg": "/PraticaMod6-RECODE/static/media/codetravelback.9a512492b7ecfcbaa9b8.jpg",
+    "static/media/CODE-travel-border-SF1.png": "/PraticaMod6-RECODE/static/media/CODE-travel-border-SF1.beaee0aff364246db180.png",
+    "index.html": "/PraticaMod6-RECODE/index.html",
+    "main.0e677364.css.map": "/PraticaMod6-RECODE/static/css/main.0e677364.css.map",
+    "main.352f1ae7.js.map": "/PraticaMod6-RECODE/static/js/main.352f1ae7.js.map",
+    "787.27a4b54b.chunk.js.map": "/PraticaMod6-RECODE/static/js/787.27a4b54b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e677364.css",
+    "static/js/main.352f1ae7.js"
+  ]
+}
