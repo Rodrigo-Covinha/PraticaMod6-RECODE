@@ -2,7 +2,7 @@
   "name": "code01",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/Rodrigo-Covinha/code01",
+  "homepage": "https://rodrigo-covinha.github.io/code01",
   "dependencies": {
     "@fortawesome/free-brands-svg-icons": "^6.2.0",
     "@fortawesome/free-solid-svg-icons": "^6.2.0",
